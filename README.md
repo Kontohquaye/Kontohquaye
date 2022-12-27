@@ -1,4 +1,4 @@
-[![MasterHead](https://equinoxx.in/images/Courses-Banner/web-development.jpg)](https://rishavchanda.io)
+[![MasterHead](https://equinoxx.in/images/Courses-Banner/web-development.jpg)](https://github.com/Kontohquaye)
 
 <h1 align="center">Hi 👋, I'm Kontoh Emmanuel Quaye</h1>
 <h3 align="center">A junior frontend developer from Ghana</h3>
