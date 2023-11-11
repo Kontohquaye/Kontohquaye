@@ -1,4 +1,4 @@
-[![MasterHead]([https://user-images.githubusercontent.com/68542775/167072911-dc31eac8-6885-4a05-9c25-279ecce22a79.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXQ909JWtosD_o64NmlvKbDa9iAh-iO9tXw&usqp=CAU))](https://github.com/Kontohquaye)
+[![MasterHead](https://cdn.pixabay.com/photo/2015/02/24/02/05/website-647013_1280.jpg)](https://github.com/Kontohquaye)
 
 <h1 align="center">Hi 👋, I'm Emmanuel Quaye Kontoh</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
