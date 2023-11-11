@@ -1,4 +1,9 @@
-[![MasterHead](https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&w=800)](https://github.com/Kontohquaye)
+<p align="center">
+  <a href="https://github.com/Kontohquaye">
+    <img src="https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&w=600" alt="MasterHead">
+  </a>
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Emmanuel Quaye Kontoh</h1>
