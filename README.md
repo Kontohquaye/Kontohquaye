@@ -1,4 +1,5 @@
-[![MasterHead](https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg)](https://github.com/Kontohquaye)
+[![MasterHead](https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&w=600)](https://github.com/Kontohquaye)
+
 
 <h1 align="center">Hi 👋, I'm Emmanuel Quaye Kontoh</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
