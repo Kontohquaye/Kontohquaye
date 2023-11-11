@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2015/02/24/02/05/website-647013_1280.jpg)](https://github.com/Kontohquaye)
+[![MasterHead]([https://cdn.pixabay.com/photo/2015/02/24/02/05/website-647013_1280.jpg](https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&w=600))](https://github.com/Kontohquaye)
 
 
 
