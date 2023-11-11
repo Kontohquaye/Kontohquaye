@@ -9,8 +9,10 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Quaye Kontoh</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
 
-- 🔥Sample projects
-- cartyzone ecommerce website [cartyzone](https://cartyzone.onrender.com)
+### 🔥 Sample Projects
+
+- **CartyZone Ecommerce Website**
+  - Check out the project: [CartyZone](https://cartyzone.onrender.com)
 
 - 📫 How to reach me **ekontoh12@gmail.com**
 
