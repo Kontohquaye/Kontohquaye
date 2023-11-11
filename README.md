@@ -12,7 +12,7 @@
 ### 🔥 Sample Projects
 
 - **CartyZone Ecommerce Website**
-  - Check out the project: [CartyZone](https://cartyzone.onrender.com)
+  - Check out the project: [Cartyzone](https://cartyzone.onrender.com)
 
 - 📫 How to reach me **ekontoh12@gmail.com**
 
